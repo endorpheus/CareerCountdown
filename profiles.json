@@ -1,0 +1,17 @@
+{
+    "Bob": {
+        "birthdate": "1978-01-17",
+        "career_start": "1995-06-01",
+        "retirement_age": 65
+    },
+    "Sandra": {
+        "birthdate": "1985-05-30",
+        "career_start": "2002-02-11",
+        "retirement_age": 62
+    },
+    "default": {
+        "birthdate": "1982-01-17",
+        "career_start": "1998-06-01",
+        "retirement_age": 65
+    }
+}
